@@ -4,4 +4,4 @@ var floatAge, floatDays, intWeeks, floatMonths, intFortnights;
      floatMonths = parseFloat(floatAge * 12);
      intWeeks = parseInt(floatDays/7);
      intFortnights = parseInt(floatDays/14);
-     alert("Age in days, months, weeks, and fortnights= " + floatDays + floatMonths + floatWeeks + intWeeks + intFortnights);
+     alert("Age in days, months, weeks, and fortnights= " + floatDays + floatMonths + intWeeks + intFortnights);
