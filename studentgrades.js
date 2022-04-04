@@ -42,7 +42,7 @@ else{
     
         else
         {
-            if (floatCourseTotal>=70 && floatTotalPts<80)
+            if (floatTotalPts>=70 && floatTotalPts<80)
             {
             stringFinalGrade = "C";
             }
